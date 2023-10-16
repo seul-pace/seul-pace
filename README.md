@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=EAEAEA&height=150&section=header&text=Seulhui%20Lee&fontSize=50&fontColor=2B2B2B&desc=This%20is%20S(eul)Pace&descSize=15&descAlign=50&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=soft&color=EAEAEA&height=150&section=header&text=Seulhui%20Lee&fontSize=50&fontColor=2B2B2B)
 
 ### 💻 _Skills_
 
