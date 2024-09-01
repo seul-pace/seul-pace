@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=EAEAEA&height=150&section=header&text=Seulhui%20Lee&fontSize=50&fontColor=2B2B2B)
+![header](https://capsule-render.vercel.app/api?type=soft&color=EAEAEA&height=100&section=header&text=Seulhui%20Lee&fontSize=50&fontColor=2B2B2B)
+
+### 💾 _Pages_
+[단장 중](https://seul-pace.github.io/)
 
 ### 💻 _Skills_
 
